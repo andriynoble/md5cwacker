@@ -2,7 +2,7 @@
 # Functional style
 use Digest::MD5 qw(md5 md5_hex md5_base64);
 
-# This will be the CLI Version
+# This will be the CLI Version | By: MrArtisto, Jagggy, M3rlox
 
 print "CLI Version of Md5 Cwaker\n";
 print "    By: #Hack group\n";
